@@ -1,4 +1,4 @@
-![Banner alt text](Laboratory 2/Profile Banner.jpg)
+![Banner alt text](https://github.com/cdarino/Elective-Laboratories/blob/ad3925ae1e4ab4fe1167d9cf3c5729af167a4375/Laboratory%202/Profile%20Banner.jpg)
 
 # 💫 About Me:
 🔭 Currently learning mobile app development
