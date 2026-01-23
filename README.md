@@ -1,3 +1,5 @@
+![Banner alt text](Laboratory 2/Profile Banner.jpg)
+
 # 💫 About Me:
 🔭 Currently learning mobile app development
 
